@@ -1,0 +1,17 @@
+# Local databases and SQLite sidecar files
+mycampus.db
+mycampus.db-journal
+mycampus.db-shm
+mycampus.db-wal
+
+# Local secrets and environment files
+.streamlit/secrets.toml
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/

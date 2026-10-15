@@ -1,0 +1,6 @@
+streamlit>=1.40
+requests>=2.31
+Pillow>=10.0
+pytesseract>=0.3.13
+pypdf>=5.0
+mysql-connector-python>=9.0
